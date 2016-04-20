@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./denovahierosoly00swedgoog_0013.png"; bbox 0 0 3352 5298; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 717 2347 979 2417">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 717 2347 979 2417">
+     <span class='ocr_line' id='line_1_1' title="bbox 717 2347 979 2417; baseline -0.011 -14"><span class='ocrx_word' id='word_1_1' title='bbox 717 2347 848 2403; x_wconf 73' lang='lat' dir='ltr'><strong>Mmu.</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 867 2358 910 2402; x_wconf 73' lang='lat' dir='ltr'><em>vx.</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 929 2359 979 2417; x_wconf 79' lang='lat'><em>³³²</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 455 2495 1245 2666">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 455 2495 1245 2666">
+     <span class='ocr_line' id='line_1_2' title="bbox 455 2495 1245 2572; baseline -0.008 -17"><span class='ocrx_word' id='word_1_4' title='bbox 455 2499 611 2572; x_wconf 76' lang='lat' dir='ltr'><em>&#39;‘Quaerite</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 626 2539 631 2552; x_wconf 93' lang='lat'><strong>.</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 647 2539 652 2552; x_wconf 94' lang='lat'><strong>.</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 661 2500 760 2568; x_wconf 76' lang='lat' dir='ltr'><em>primo</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 772 2497 903 2568; x_wconf 79' lang='lat' dir='ltr'><em>Regnum</em></span> <span class='ocrx_word' id='word_1_9' title='bbox 916 2496 977 2551; x_wconf 73' lang='lat' dir='ltr'><em>Det·</em></span> <span class='ocrx_word' id='word_1_10' title='bbox 987 2533 994 2552; x_wconf 90' lang='lat'><strong>.</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 1007 2535 1014 2552; x_wconf 89' lang='lat'><strong>.</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 1027 2535 1035 2552; x_wconf 89' lang='lat'><em>.</em></span> <span class='ocrx_word' id='word_1_13' title='bbox 1048 2535 1055 2558; x_wconf 86' lang='lat'><strong>.</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 1069 2505 1097 2550; x_wconf 78' lang='lat' dir='ltr'><em>et</em></span> <span class='ocrx_word' id='word_1_15' title='bbox 1109 2535 1116 2550; x_wconf 93' lang='lat'><strong>.</strong></span> <span class='ocrx_word' id='word_1_16' title='bbox 1130 2535 1136 2550; x_wconf 92' lang='lat'>.</span> <span class='ocrx_word' id='word_1_17' title='bbox 1149 2495 1245 2550; x_wconf 70' lang='lat' dir='ltr'><em>omnia</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 714 2595 1002 2666; baseline -0.01 -15"><span class='ocrx_word' id='word_1_18' title='bbox 714 2598 889 2666; x_wconf 71' lang='lat' dir='ltr'><em>adficimur</em></span> <span class='ocrx_word' id='word_1_19' title='bbox 900 2595 1002 2651; x_wconf 76' lang='lat' dir='ltr'><em>vobt&#39;s.&#39;&#39;</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1680 5298">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1680 5298">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1680 5298; baseline 0 0"><span class='ocrx_word' id='word_1_20' title='bbox 0 0 1680 5298; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
